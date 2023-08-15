@@ -1,27 +1,11 @@
-# React + TypeScript + Vite
+Memory Card Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React + TS+ Vite
 
-Currently, two official plugins are available:
+Card memory game with images.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live version [Here!:](https://bejewelled-llama-d040b3.netlify.app)
 
-## Expanding the ESLint configuration
+![1](https://github.com/vykis123/Memory-Game-Ts/assets/82774076/b0de3deb-c66e-4001-af01-2e09b8def836)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+![2](https://github.com/vykis123/Memory-Game-Ts/assets/82774076/356ecfd9-87d9-41f6-90ff-3b1c349f527a)
